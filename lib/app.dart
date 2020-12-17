@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/UI/pages/Message_Page.dart';
+import 'package:flutter_app/UI/pages/message_page.dart';
 
 import 'Resourses/app_strings.dart';
-import 'UI/pages/Autorization.dart';
+import 'UI/pages/autorization.dart';
 
 class App extends StatelessWidget{
   @override
